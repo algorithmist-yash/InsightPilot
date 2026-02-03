@@ -63,7 +63,7 @@ scikit-learn
 
 Clone this repository
 
-git clone [https://github.com/your-username/insightpilot.git](https://github.com/algorithmist-yash/InsightPilot/tree/main)
+git clone (https://github.com/algorithmist-yash/InsightPilot/tree/main)
 cd insightpilot
 
 
@@ -101,7 +101,7 @@ Agent performance evaluation and human-in-the-loop corrections
 
 👤 Author
 
-Your Name — Yash Raj (future AI & ML Researcher)
+Yash Raj (future AI & ML Researcher)
 
 [https://www.linkedin.com/in/yash-raj-476290369/]
 
